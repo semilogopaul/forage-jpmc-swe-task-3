@@ -1,2 +1,2 @@
-# JP Morganc Chase Task 3
+# JP Morgan Chase Task 3
 Starter repo for task 3 of JPMC's Forage program
